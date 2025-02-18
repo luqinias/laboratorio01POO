@@ -1,12 +1,16 @@
-# 📚 Projeto Laboratório com Python 
-Este projeto tem como objetivo básicos estudos acadêmicos pessoais, foram utilizados tecnologias de:
-Python.
+# 📚 Projeto Laboratório com Java Orientado a Objetos 
+Este projeto tem como objetivo estudos acadêmicos da disciplina "Programação Orientada a Objetos", Universidade Federal de Uberlândia, foram utilizados tecnologias de:
+Java, GitHub, Git, Visual Studio Code.
 
 ## Objetivos:
-- Exercitar conceitos básicos;
+- Exercitar conceitos ensinados em aula;
 - Lógicas matemáticas e acentuação de resolução de problemas;
 - Uso de funções;
-- Estudar tecnologias e trabalhar mentalidade criativa.
+- Estudar tecnologias e trabalhar mentalidade criativa;
+- Encapsulamento;
+- Herança;
+- Polimorfismo;
+- Abstraçao.
 
   
 ## Entregáveis:
@@ -30,4 +34,4 @@ Python.
 ### Lucas Lira
 Estudante em Engenharia de Computação na UFU e técnico de TI, amante de tecnologia e inovação, atualmente no meu tempo livre estudo para mercado estágio backend com Java, Python.
 
-**voar o mais alto que puder**
+**mais alto**
