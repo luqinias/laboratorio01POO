@@ -1,5 +1,5 @@
 # 📚 Projeto Laboratório com Java Orientado a Objetos 
-Este projeto tem como objetivo estudos acadêmicos da disciplina "Programação Orientada a Objetos", Universidade Federal de Uberlândia, foram utilizados tecnologias de:
+Este projeto tem como objetivo estudos acadêmicos da disciplina "Programação Orientada a Objetos", Universidade Federal de Uberlândia, foram utilizadas tecnologias de:
 Java, GitHub, Git, Visual Studio Code.
 
 ## Objetivos:
